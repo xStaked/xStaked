@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sergio Romero
-<h3 align="center">
-  No hay sobre mi por el momento
+<h4 align="center">
+ Si he sido capaz de ver más lejos, es porque me he parado sobre los hombros de gigantes.
 <h3 align="center">Contacta conmigo: </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/sergio-romero-b40441206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
