@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sergio Romero
-<h4 align="center">
+<h3 align="center">
  Si he sido capaz de ver más lejos, es porque me he parado sobre los hombros de gigantes.
 <h3 align="center">Contacta conmigo: </h3>
 <p align="center">
