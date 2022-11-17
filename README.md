@@ -18,6 +18,6 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SRomero21&show_icons=true&locale=en&layout=compact" alt="SRomero21" width="355" height="167" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SRomero21&show_icons=true&locale=en" alt="SRomero21" width="355" height="167" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xStaked&show_icons=true&locale=en" alt="xStaked" width="355" height="167" />
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SRomero21&" alt="SRomero21"  width="355" height="167"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xStaked&" alt="xStaked"  width="355" height="167"/>
