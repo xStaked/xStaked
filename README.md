@@ -20,4 +20,3 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xStaked&show_icons=true&locale=en" alt="xStaked" width="355" height="167" />
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xStaked&" alt="xStaked"  width="355" height="167"/>
