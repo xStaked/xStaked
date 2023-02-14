@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NextJS - ReactJS - Express<br><br>🌱 I’m currently learning Express<br><br>👨‍💻 All of my projects are available at https://github.com/xStaked<br><br>💬 Ask me about React - Express<br><br>📫 How to reach me aljndr911@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/sergio-romero-desarrollador-frontend/
+🔭 I’m currently working on React.js - Express<br><br>🌱 I’m currently learning Express<br><br>👨‍💻 All of my projects are available at https://github.com/xStaked<br><br>💬 Ask me about React - Express<br><br>📫 How to reach me aljndr911@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/sergio-romero-desarrollador-frontend/
 
 
 ## 🌐 Socials: 
