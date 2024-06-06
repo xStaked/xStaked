@@ -6,7 +6,6 @@ The biography is in the projects, and when there are no projects, there is no bi
 
 - 💼 I'm currently working at Polittan as a Mid FullStack developer
 - 🔭 I'm currently learning Go, algorithms and data structures
-<!-- 🌱 I'm trying to build the best version of myself through programming 💻, mushrooms 🍄, and philosophy 📚. -->
 - 📫 How to reach me: aljndr911@gmail.com
 
 <h3 align="left">Connect with me:</h3>
