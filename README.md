@@ -4,7 +4,7 @@
 
 The biography is in the projects, and when there are no projects, there is no biography either.
 
-- 💼 I'm currently working at Polittan as a Mid FullStack developer
+- 💼 I'm currently working at MagicLog as FullStack developer
 - 🔭 I'm currently learning Go, algorithms and data structures
 - 📫 How to reach me: aljndr911@gmail.com
 
